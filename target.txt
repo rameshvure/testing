@@ -1,0 +1,2 @@
+ordernumber#[[payload.ordernumber]for product #[payload.productname] has been shipped on #now() it will be delivered on
+#[payload.deliverydate] by #[payload.name]
